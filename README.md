@@ -1,2 +1,2 @@
-# pliroforiaka
-Task
+# pharmacy-system
+Εδώ θα είναι αναλυτικά τα βήματα της εργασίας
